@@ -27,8 +27,23 @@ mongoose.connect(process.env.MONGODB_URI,{
 
 //routes
 app.get('/',async (req,res)=>{
+    res.render('index');
+});
+app.get('/data',async (req,res)=>{
     const allData = await Scrip.find();
-    res.render('index',{data:allData});
+    res.render('data',{data:allData});
+});
+app.get('/plans',async (req,res)=>{
+    res.render('plans');
+});
+app.get('/webinar',async (req,res)=>{
+    res.render('webinar');
+});
+app.get('/disclaimer',async (req,res)=>{
+    res.render('disclaimer');
+});
+app.get('/about',async (req,res)=>{
+    res.render('about');
 });
 app.post('/register',async (req,res)=>{
     const {date,index,lot,ratio,stPrice,buy,sell,price} = req.body;
