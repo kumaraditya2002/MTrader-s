@@ -1,4 +1,4 @@
-let url2 = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=15deb215901a48a3b66437aacca7219c";
+var url2 = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=15deb215901a48a3b66437aacca7219c";
 let mrq = document.getElementById("mq");
 fetch(url2).then(res => res.json())
 .then(data=>{
