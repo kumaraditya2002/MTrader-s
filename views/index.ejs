@@ -19,21 +19,25 @@
     <title id="tit">Home</title>
     <style>
       #hdng{
-      
+        margin: auto;
         font-weight: 800;
         background: -webkit-linear-gradient(360deg,red,green);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         animation-name: heading;
-        animation-duration: 7s;
+        animation-duration: 3s;
         animation-iteration-count: infinite;
-        animation-timing-function: ease-in-out;
-        
+        animation-timing-function:linear;
       }
       @keyframes heading{
-        0%{transform: translate(0px,0px) rotateY(0deg);}
-        50%{transform: translate(660px,0px) rotateY(360deg);}
-        100%{transform: translate(0px,0px) rotateY(0deg);}
+        0%{transform:translate(0,0);}
+        /* 25%{transform:translate(-40%,0);} */
+        50%{transform: translate(40%,0);}
+        75%{transform: translate(-40%,0);}
+        100%{transform: translate(0,0);}
+        /* 100%{transform: translate(40%,0);} */
+        /* 50%{transform: translate(-40%,0) rotateY(180deg);}
+        100%{transform: translate(0,0) rotateY(0deg);} */
       }
     </style>
   </head>
