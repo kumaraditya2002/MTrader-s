@@ -8,8 +8,7 @@ require('dotenv').config();
 
 const app = express();
 app.use(bodyParser.json());
-const port = process.env.port || 8000;
-const host = process.env.host || "192.168.43.155";
+const port = process.env.PORT || 8000;
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -17,7 +16,7 @@ app.use("/public",express.static('public'));
 app.set('view engine', 'ejs');
 
 //connecting db
-mongoose.connect(process.env.mongodb_url,{
+mongoose.connect(process.env.MONGODB_URI,{
     useNewUrlParser:true,
     useUnifiedTopology:true,
     useCreateIndex:true,
@@ -67,6 +66,6 @@ app.delete('/delete',async (req,res)=>{
 })
 
 //server 
-app.listen(port,host,()=>{
-    console.log(`server started at  http://${host}:${port}`);
+app.listen(port,()=>{
+    console.log(`server started at ${port}`);
 });
