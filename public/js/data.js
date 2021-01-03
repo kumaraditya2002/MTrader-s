@@ -9,8 +9,6 @@ var bu = document.getElementById('buy');
 var sel = document.getElementById('sell');
 var tot = document.getElementById('total');
 const form = document.getElementById('main_form');
-const str = "tuesday,january 1,2020";
-console.log(str.split(",")[0]);
 
 function totsum(){
     let price = document.getElementsByClassName('price');

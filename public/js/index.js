@@ -3,7 +3,7 @@ let btns = document.getElementsByClassName('btnmy');
 Array.from(btns).forEach(item => {
     item.addEventListener('click', e => {
         let headings = document.getElementById('theading');
-        let main = document.getElementsByClassName('main');
+        let main = document.getElementById('mainc');
         main.style.display = "none";
         document.getElementById('tit').innerText = item.innerText;
         fetch(url).then(res => {
@@ -21,7 +21,7 @@ Array.from(btns).forEach(item => {
             arr.forEach(element => {
                 html += `<tr>`;
                 for (let title in element) {
-                    console.log(element);
+                    // console.log(element);
                     html += `<td>${element[title]}</td>`;
                 }
                 html += `</tr>`;
