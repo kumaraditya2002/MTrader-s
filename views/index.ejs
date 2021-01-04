@@ -64,13 +64,15 @@
       }
       @keyframes heading{
         0%{transform:translate(0,0);}
-        /* 25%{transform:translate(-40%,0);} */
         50%{transform: translate(40%,0);}
         75%{transform: translate(-40%,0);}
         100%{transform: translate(0,0);}
-        /* 100%{transform: translate(40%,0);} */
-        /* 50%{transform: translate(-40%,0) rotateY(180deg);}
-        100%{transform: translate(0,0) rotateY(0deg);} */
+      }
+      @media screen and (max-width: 400px){
+        .ln{
+          font-size:0.5rem;
+          padding:5px 5px;
+        }
       }
     </style>
   </head>
