@@ -8,13 +8,13 @@ fetch("https://bloomberg-market-and-financial-news.p.rapidapi.com/news/list-by-r
 })
 .then(response => response.json())
 .then(data=>{
-    console.log(data.modules)
+    // console.log(data.modules)
     let hstr="";
     data.modules.forEach(element => {
         if(element.stories.length>0)
         {
             element.stories.forEach(e=>{
-                hstr += `<a href="${e.longURL}" target=_blank id="mqc">${e.title}</a><img src="http://www.neccoal.co.in/images/New.gif" />`+`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`;
+                hstr += `<a href="${e.longURL}" target=_blank id="mqc">${e.title}</a><img src="https://raw.githubusercontent.com/kumaraditya2002/Tesla-Project/master/New.gif" />`+`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`;
             })
         }
     });
