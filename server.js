@@ -29,10 +29,7 @@ mongoose.connect(process.env.MONGODB_URI,{
 app.get('/',async (req,res)=>{
     res.render('index');
 });
-app.get('/data',async (req,res)=>{
-    const allData = await Scrip.find();
-    res.render('data',{data:allData});
-});
+
 app.get('/plans',async (req,res)=>{
     res.render('plans');
 });
@@ -78,7 +75,13 @@ app.delete('/delete',async (req,res)=>{
     }catch(err){
         console.log(err.message);
     }
-})
+});
+
+app.get('/data',async (req,res)=>{
+    res.statusCode=200;
+    const allData = await Scrip.find();
+    res.render('data',{data:allData});
+});
 
 //server 
 app.listen(port,()=>{
