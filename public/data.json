@@ -1,0 +1,507 @@
+{
+    "Main_Table": [
+        {
+            "Month": "January",
+            "Date": "01/07/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "150000",
+            "P/L(Target)": "2000",
+            "P/L(Actual)": "2887",
+            "Remarks": "EXPIRY DONE ON 2 LOT"
+        },
+        {
+            "Month": "January",
+            "Date": "01/14/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "180000",
+            "P/L(Target)": "2500",
+            "P/L(Actual)": "3685",
+            "Remarks": "EXPIRY DONE ON 2 LOT"
+        },
+        {
+            "Month": "January",
+            "Date": "01/21/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "January",
+            "Date": "01/28/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "February",
+            "Date": "02/01/2021",
+            "Day": "Budget",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "February",
+            "Date": "02/04/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "February",
+            "Date": "02/11/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "February",
+            "Date": "02/18/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "February",
+            "Date": "02/25/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "March",
+            "Date": "03/04/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "March",
+            "Date": "03/11/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "March",
+            "Date": "03/18/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "March",
+            "Date": "03/25/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "April",
+            "Date": "04/01/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "April",
+            "Date": "04/08/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "April",
+            "Date": "04/15/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "April",
+            "Date": "04/22/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "April",
+            "Date": "04/29/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "May",
+            "Date": "05/06/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "May",
+            "Date": "05/13/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "May",
+            "Date": "05/20/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "May",
+            "Date": "05/27/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "June",
+            "Date": "06/03/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "June",
+            "Date": "06/10/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "June",
+            "Date": "06/17/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "June",
+            "Date": "06/24/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "July",
+            "Date": "07/01/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "July",
+            "Date": "07/08/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "July",
+            "Date": "07/15/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "July",
+            "Date": "07/22/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "July",
+            "Date": "07/29/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "August",
+            "Date": "08/05/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "August",
+            "Date": "08/12/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "August",
+            "Date": "08/19/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "August",
+            "Date": "08/26/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "September",
+            "Date": "09/02/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "September",
+            "Date": "09/09/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "September",
+            "Date": "09/16/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "September",
+            "Date": "09/23/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "September",
+            "Date": "09/30/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "October",
+            "Date": "10/07/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "October",
+            "Date": "10/14/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "October",
+            "Date": "10/21/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "October",
+            "Date": "10/28/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "November",
+            "Date": "11/04/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "November",
+            "Date": "11/11/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "November",
+            "Date": "11/18/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "November",
+            "Date": "11/25/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "12/02/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "12/09/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "12/16/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "12/23/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "12/30/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "23/12/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "Month": "December",
+            "Date": "30/12/2021",
+            "Day": "ThursDay",
+            "Amount Invested": "300000",
+            "P/L(Target)": "3000",
+            "P/L(Actual)": "",
+            "Remarks": ""
+        },
+        {
+            "TOTAL AMOUNT INVESTED": "300000",
+            "TOTAL EXPIRY DayS": "52",
+            "WINNING DayS(PROBABILITY)": "47",
+            "LOSSING DayS": "5",
+            "TOTAL P/L": "141000",
+            "ROI": "47%"
+        }
+    ]
+}
