@@ -22,7 +22,7 @@
       .tablefixed::-webkit-scrollbar{
         width: 10px;
       }
-      td,tr{
+      td,tr,th{
         text-align: center;
       }
       #total{
@@ -60,6 +60,11 @@
         height: 400px;
         padding: 0;
       }
+      #prtablebody{
+        background-image: url(https://raw.githubusercontent.com/kumaraditya2002/test-backend/master/public/img/watermark.png);
+        background-position: center;
+      }
+
       .tablefixed thead th{
         background-color: grey;
         color: white;
@@ -114,6 +119,7 @@
                   <a class="dropdown-item" href="#">2018</a>
                   <a class="dropdown-item" href="#" >2019</a>
                   <a class="dropdown-item" href="#" >2020</a>
+                  <a class="dropdown-item" href="#" id="2021">2021</a>
                   <!-- <div class="dropdown-divider"></div> -->
                   <!-- <a class="dropdown-item" href="#">Something else here</a> -->
               </div>
@@ -249,12 +255,26 @@
             </table>
           </div>
       </div>
-      <table class="table table-bordered">
+      <table class="table table-bordered" style="display: none;" id="t1">
         <thead  id="theading">
             
         </thead>
         <tbody id="tbody">
          
+        </tbody>
+      </table>
+      <table class="table table-bordered my-5" style="width: 80%; margin: auto; display: none;" id="t2">
+        <thead id="prtablehead">
+    
+        </thead>
+        <tbody id="prtablebody">
+    
+        </tbody>
+      </table>
+      <table style="width: 50%; margin: auto; display: none;" id="t3" class="table table-bordered my-4">
+  
+        <tbody id="sumbody" >
+          
         </tbody>
       </table>
       <footer class="footer bg-dark" style="color: white; text-align: center;">
